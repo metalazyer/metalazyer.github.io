@@ -1,6 +1,6 @@
 
-* 首页
+* 传奇4（mir4）
 	* [策划](zh-cn/README.md)
-	* [需求管理](zh-cn/guide.md)
-* 项目管理
-	* [流程管理](zh-cn/sprint.md)
+	* [奇缘](zh-cn/guide.md)
+* pokemoney
+	* [入门](zh-cn/sprint.md)
