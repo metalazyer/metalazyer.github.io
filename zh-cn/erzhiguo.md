@@ -9,5 +9,5 @@
 
 ## 视频攻略
 
-新手攻略搬砖教程：https://youtu.be/mJYJh-1MBeg
-
+- 搬砖教程：https://youtu.be/mJYJh-1MBeg
+- 提现流程：https://youtu.be/qsqfyDACU8M

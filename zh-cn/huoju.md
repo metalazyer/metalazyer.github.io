@@ -18,5 +18,5 @@
 
 ## 视频攻略
 
-新手开荒攻略：https://www.youtube.com/watch?v=E7uTm-6v_OI
+开荒搬砖攻略：https://www.youtube.com/watch?v=E7uTm-6v_OI
 
