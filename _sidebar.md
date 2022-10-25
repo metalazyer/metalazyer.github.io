@@ -1,6 +1,6 @@
 
-* 白嫖项目
-	* [策划](zh-cn/README.md)
-	* [奇缘](zh-cn/guide.md)
+* 免费项目
+	* [火炬之光无限](zh-cn/huoju.md)
+	* [二之国](zh-cn/erzhiguo.md)
 * 投资项目
-	* [入门](zh-cn/sprint.md)
+	* [PetaRush](zh-cn/petarush.md)
