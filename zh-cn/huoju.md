@@ -16,6 +16,12 @@
 2. 通过掉落暗金装备，高等级白装（打造装备需要的胚子），装备打造，交易所售卖
 3. 出售刷图掉落的材料，例如罗盘、门票等。
 
+## 出金
+
+第三方交易平台：
+- 国内：https://www.dd373.com/
+- 国外：https://www.playerauctions.com/torchlight-infinite-items/
+
 ## 视频攻略
 
 开荒搬砖攻略：https://www.youtube.com/watch?v=E7uTm-6v_OI
