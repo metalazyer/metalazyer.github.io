@@ -25,8 +25,8 @@ https://www.metasens.com/activity/peta?utm_source=tofuNFT.com&utm_medium=web&utm
 
 1. 先送你30張pt卷 （價值$30)🎟
 2. 填寫邀請碼（UWZ37WFK7D）更可以額外獲得5-10張pt卷
-3. 直接白嚕40次 （聽說最快30場就回本囉)(偷偷說 🫢
-4. 白單鑄造Peta 有機會達到傳說級別🧞‍♂️🐉🧌（可能15場就回本了)(嘻嘻🤭
+3. 直接白嚕40次 （聽說最快30場就回本囉)(偷偷說 
+4. 白單鑄造Peta 有機會達到傳說級別🧞‍♂️🐉（可能15場就回本了)(嘻嘻🤭
 5. 300名白單鑄造者才能參與的大抽獎🖥💰（聽說有蘋果平板、200u)
 
 邀请链接：https://www.metasens.com/activity/peta/whitelist?r=UWZ37WFK7D
