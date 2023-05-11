@@ -13,7 +13,7 @@
 
 Youtube地址：https://www.youtube.com/channel/UCbGbeoEyW7mQHWOcWWP6IYw
 
-也可以加入我们的社区，沟通讨论 ==> 懒虫社区电报：https://t.me/lazy_guild
+bilibli地址：https://space.bilibili.com/1131457849
 
 
 ## 免责声明：
