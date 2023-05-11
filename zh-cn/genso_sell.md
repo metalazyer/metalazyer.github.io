@@ -5,7 +5,28 @@
 
 ## 出售列表
 
-1.天野法系时装
-![天野](./img/tianye01.jpg "属性图")
+1.天野法系时装：
 
-![天野](./img/tianye02.jpg "属性图")
+价格：6000U
+
+等级：45
+
+![天野](./img/tianye01.jpeg "ty01")
+
+![天野](./img/tianye02.jpeg "ty02")
+
+---
+
+2.左手盾牌：
+
+价格：1400U
+
+等级：30
+
+![盾牌](./img/dunpai01.png "dp01")
+
+![盾牌](./img/dunpai02.png "dp02")
+
+![盾牌](./img/dunpai03.png "dp03")
+
+---
