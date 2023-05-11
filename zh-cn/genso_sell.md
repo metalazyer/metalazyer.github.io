@@ -40,7 +40,7 @@
 | ----------- | ----------- | ------- |
 | 270U      |    0   | 武僧 |
 
-<img src="./img/longtou01.jpeg" alt="武僧龙头" title="武僧龙头" width="100">
+<img src="/img/longtou01.jpeg" alt="武僧龙头" title="武僧龙头" width="400">
 
 ![龙头](./img/longtou01.jpeg "lt01")
 ![龙头](./img/longtou02.png "lt02")
