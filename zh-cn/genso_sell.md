@@ -40,6 +40,6 @@
 | ----------- | ----------- |
 | 270U      |    0   |
 
-![盾牌](./img/longtou01.png "lt01")
-![盾牌](./img/longtou02.png "lt02")
+![龙头](./img/longtou01.jpeg "lt01")
+![龙头](./img/longtou02.png "lt02")
 
