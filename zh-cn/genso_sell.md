@@ -13,9 +13,10 @@
 | ----------- | ----------- |
 | 6000U      |    45   |
 
-![天野](./img/tianye01.jpeg "ty01")
+<img src="/zh-cn/img/tianye01.jpeg" alt="天野" title="天野" width="400">
 
-![天野](./img/tianye02.jpeg "ty02")
+<img src="/zh-cn/img/tianye02.jpeg" alt="天野" title="天野" width="400">
+
 
 ---
 
@@ -26,11 +27,12 @@
 | 1400U      |    30   |
 
 
-![盾牌](./img/dunpai01.png "dp01")
+<img src="/zh-cn/img/dunpai01.png" alt="dunpai01" title="盾牌" width="400">
 
-![盾牌](./img/dunpai02.png "dp02")
+<img src="/zh-cn/img/dunpai02.png" alt="dunpai01" title="盾牌" width="400">
 
-![盾牌](./img/dunpai03.png "dp03")
+<img src="/zh-cn/img/dunpai03.png" alt="dunpai01" title="盾牌" width="400">
+
 
 ---
 
@@ -38,9 +40,9 @@
 
 | 价格      | 等级 | 职业 |
 | ----------- | ----------- | ------- |
-| 270U      |    0   | 武僧 |
+| 280U      |    0   | 武僧 |
 
 <img src="/zh-cn/img/longtou01.jpeg" alt="武僧龙头" title="武僧龙头" width="400">
 
-![龙头](./img/longtou02.png "lt02")
+<img src="/zh-cn/img/longtou02.png" alt="武僧龙头" title="武僧龙头" width="400">
 
