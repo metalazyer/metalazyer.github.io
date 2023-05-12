@@ -46,3 +46,13 @@
 
 <img src="/zh-cn/img/longtou02.png" alt="武僧龙头" title="武僧龙头" width="400">
 
+--- 
+
+4. **SR时装盾**
+
+| 价格      | 等级 | 职业 |
+| ----------- | ----------- | ------- |
+| 120U      |    0   | ALL |
+
+<img src="/zh-cn/img/sz-dun.png" width="400">
+
