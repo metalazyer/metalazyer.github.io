@@ -1,27 +1,28 @@
+# 基础资料
 
-# 懒虫社区
+## 基本信息
 
-懒虫社区是一个专注于发掘与分享优质游戏攻略，网赚项目的社区。
+元素骑士online 是一款网页游戏，直接打开官网即可畅玩！非常适合散人搬砖，游戏币固定比例
 
-各位虫宝们加入社区可以获得以下的福利：
+1万游戏币（mr）= 1美金
 
-- 获取最新的项目资讯，及早布局才能更容易获得收益。
-- 及时沟通项目情况与揭露风险，及早规避，避免资金损失。
-- 不定期举行福利活动，获取免费的资源及收益。
+入门、配装、职业推荐，请联系懒虫（微信：lazyer0710）
 
-我们的影片会在指定的Youtube频道（懒虫游戏）推出，虫宝们可以订阅它以获取最新的项目资讯
-
-Youtube地址：https://www.youtube.com/channel/UCbGbeoEyW7mQHWOcWWP6IYw
-
-bilibli地址：https://space.bilibili.com/1131457849
+官网地址：https://genso.game/
 
 
-## 免责声明：
 
-相关资料及图片仅供参考
+## 合约地址
 
-只是提供资讯用途
+- 马蹄链(polygon)ROND 合约：0x204820B6e6FEae805e376D2C6837446186e57981
+- 马蹄链(polygon)MV 合约：0xA3c322Ad15218fBFAEd26bA7f616249f7705D945
+- 马蹄链(polygon)USDT合约：0xc2132D05D31c914a87C6611C10748AEb04B58e8F
 
-不构成任何投资建议及推荐
 
-投资有风险，交易需谨慎
+## 官方社区
+
+- Discord：https://discord.com/invite/gensometa
+- 推特：https://twitter.com/genso_meta
+- 电报：https://t.me/gensometazw
+- youtube：https://www.youtube.com/channel/UCMi4wGMEWgC9VVps8d_NLDA
+- Line：https://line.me/R/ti/p/%40846fieqo
