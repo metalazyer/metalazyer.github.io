@@ -8,9 +8,6 @@
 
 入门、配装、职业推荐，请联系懒虫（微信：lazyer0710）
 
-官网地址：https://genso.game/
-
-
 
 ## 合约地址
 
@@ -19,8 +16,12 @@
 - 马蹄链(polygon)USDT合约：0xc2132D05D31c914a87C6611C10748AEb04B58e8F
 
 
-## 官方社区
+## 懒虫社区
+- 微信群：添加微信 lazy_games 加入社群
+- Discord ：https://discord.gg/z6dqRsdQ28
 
+## 官方社区
+- 官网地址：https://genso.game/
 - Discord：https://discord.com/invite/gensometa
 - 推特：https://twitter.com/genso_meta
 - 电报：https://t.me/gensometazw
